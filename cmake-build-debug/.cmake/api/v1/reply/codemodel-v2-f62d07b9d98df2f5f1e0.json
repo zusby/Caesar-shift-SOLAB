@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SOLABProject_Denise_Falcone_Kacper_Osicki",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SOLABProject_Denise_Falcone_Kacper_Osicki::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SOLABProject_Denise_Falcone_Kacper_Osicki-Debug-c7eeeeae0fe47f884817.json",
+					"name" : "SOLABProject_Denise_Falcone_Kacper_Osicki",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/denise00/CLionProjects/SOLABProject-Denise_Falcone-Kacper_Osicki/cmake-build-debug",
+		"source" : "/home/denise00/CLionProjects/SOLABProject-Denise_Falcone-Kacper_Osicki"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

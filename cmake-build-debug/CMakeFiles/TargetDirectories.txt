@@ -1,0 +1,3 @@
+/home/denise00/CLionProjects/SOLABProject-Denise_Falcone-Kacper_Osicki/cmake-build-debug/CMakeFiles/SOLABProject_Denise_Falcone_Kacper_Osicki.dir
+/home/denise00/CLionProjects/SOLABProject-Denise_Falcone-Kacper_Osicki/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/denise00/CLionProjects/SOLABProject-Denise_Falcone-Kacper_Osicki/cmake-build-debug/CMakeFiles/rebuild_cache.dir

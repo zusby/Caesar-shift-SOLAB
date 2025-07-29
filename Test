@@ -1,0 +1,17 @@
+Test1: This is a simple text to encrypt.
+File to Crypt:  /home/denise00/Desktop/Test1.txt
+Key File:       /home/denise00/Desktop/keyTest1.txt
+Crypted File:   /home/denise00/Desktop/encryptedTest1.txt
+Decrypted File: /home/denise00/Desktop/decryptedTest1.txt
+
+Test2: L'esame di Sistemi Operativi è andato bene!!
+File to Crypt:  /home/denise00/Documents/Test2.txt
+Key File:       /home/denise00/Documents/keyTest2.txt
+Crypted File:   /home/denise00/Documents/encryptedTest2.txt
+Decrypted File: /home/denise00/Documents/decryptedTest2.txt
+
+Test3: File di testo (20K+ caratteri).
+File to Crypt:  /home/denise00/Downloads/Test3.txt
+Key File:       /home/denise00/Documents/keyTest3.txt
+Crypted File:   /home/denise00/Desktop/encryptedTest3.txt
+Decrypted File: /home/denise00/Desktop/decryptedTest3.txt
